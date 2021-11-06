@@ -1,13 +1,15 @@
-Welcome to Lumache's documentation!
-===================================
+Página teste3
+============
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
+**TCC UNISANTA** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+It pulls data from the `AVA Unisanta <https://ava.unisanta.br/login/index.php/>`_
 and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
+
+Lorem ipsum dolor sit amet. Et debitis ratione et consequuntur aspernatur et quidem error non veritatis quia aut quia praesentium? Non eius possimus vel earum iusto ea inventore autem et possimus magni non amet impedit. Non necessitatibus sit nisi molestiae qui vitae totam sit nesciunt ullam At eligendi pariatur qui itaque blanditiis.
 
 Lorem ipsum dolor sit amet. Et debitis ratione et consequuntur aspernatur et quidem error non veritatis quia aut quia praesentium? Non eius possimus vel earum iusto ea inventore autem et possimus magni non amet impedit. Non necessitatibus sit nisi molestiae qui vitae totam sit nesciunt ullam At eligendi pariatur qui itaque blanditiis.
 .. note::
@@ -16,14 +18,10 @@ Lorem ipsum dolor sit amet. Et debitis ratione et consequuntur aspernatur et qui
 
 .. note::
 
+  Et aliquid deserunt ut saepe ipsam cum.
+
+.. note::
+
    Teste.
 Contents
 --------
-
-.. toctree::
-
-   usage
-   api
-   Teste
-   teste2
-   teste3
